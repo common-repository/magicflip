@@ -1,0 +1,1 @@
+!function(i){"use strict";i(()=>{i(".magicflip").each((t,a)=>{var a=i(a),c=i("<embed>"),e=a.attr("data-src");c.attr({src:""+e,type:"application/pdf"}),a.append(c)})})}(jQuery,(window,document));
